@@ -1,4 +1,5 @@
 # A list of Ripple resources
+Pull requests are more then welcome.
 
 #### Official
 - [Ripple](https://ripple.com/)
