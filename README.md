@@ -15,6 +15,8 @@
 - [RippleCN](http://ripplecn.com/)
 - [RippleChina](http://www.ripplechina.net/)
 - [Ripple CSDN](http://ripple.csdn.net/)
+- [Kraken](https://www.kraken.com/)
+- [JustCoin](https://justcoin.com/)
 - [Ripple Money](https://ripplemoney.co.uk/)
 - [Ripple Union](http://rippleunion.com/)
 - [ZipZap](http://zipzap.com/)
