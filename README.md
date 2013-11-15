@@ -2,7 +2,8 @@
 
 #### Official
 - [Ripple](https://ripple.com/)
-- [Ripple Source](https://github.com/ripple/)
+- [Source](https://github.com/ripple/)
+- [Wiki](https://ripple.com/wiki/Main_Page)
 - [Giveaways](https://giveaway.ripple.com/)
 - [Twitter](https://twitter.com/ripple/)
 - [Facebook](https://www.facebook.com/ripplepay/)
@@ -29,18 +30,25 @@
 - [Terracoin](http://exchange.bitcoinreactor.com:8032/)
 - [Devcoin](http://ripple.d.evco.in/)
 - [Bloctoc](http://bloctoc.com/)
+- [BuyXrp](http://buyxrp.net/)
 
 #### Tools
 ###### Developer tools
 - [Ripple Info Tool](https://ripple.com/tools/info/)
 - [jRippleAPI](https://github.com/pmarches/jRippleAPI/)
+- [Rippleserver Google Group](https://groups.google.com/forum/#!forum/ripple-server/)
+- [Ripple Blob Vault](https://github.com/alexdupre/ripple-blobvault/)
+- [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
+- [Ripple Gen](https://github.com/CodeShark/RippleGen/)
 
 ###### Trader tools / charts
 - [Ripple Charts](https://ripplecharts.com/)
 - [Webr3](http://xrp.webr3.org/usd-xrp/)
+- [Ripple DB](http://rippledb.com/)
 
 ###### Other tools
 - [Ripple Helpers](https://github.com/vhpoet/ripple-helpers/)
+- [Ripple Graph](https://ripple.com/graph/)
 
 #### Videos
 - [Ripple, The future of payments](https://vimeo.com/73887321)
@@ -48,6 +56,7 @@
 #### Other
 - [International Ripple Business Association](http://www.xrpga.org/)
 - [Ripple Federation](http://ripplefederation.org/)
+- [Ripple giveaway](http://ripplegiveaway.com/)
 
 #### Social
 - [Reddit 'ripple'](http://www.reddit.com/r/ripple/)
@@ -55,3 +64,4 @@
 - [XRPTalk](https://xrptalk.org/)
 - [Ripple Forum](http://rippleforum.org/)
 - [Ripple Lounge](http://www.ripplelounge.com/)
+- [Rippleusers Google Group](https://groups.google.com/forum/#!forum/rippleusers)
