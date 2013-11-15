@@ -8,6 +8,7 @@ Pull requests are more then welcome.
   - Ripple Libs - Libraries for talking to the Ripple API
     - [ripple-lib](https://github.com/ripple/ripple-lib/): Java Script
     - [ripple-lib-java](https://github.com/ripple/ripple-lib-java/): Java
+    - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
   - Ripple Clients
     - [ripple-client](https://github.com/ripple/ripple-client/): Web client
     - [ripple-client-ios](https://github.com/ripple/ripple-client-ios/): iOS client
