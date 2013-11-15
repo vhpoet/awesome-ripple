@@ -20,6 +20,8 @@ Pull requests are more then welcome.
 - [Giveaways](https://giveaway.ripple.com/)
 - [Twitter](https://twitter.com/ripple/)
 - [Facebook](https://www.facebook.com/ripplepay/)
+- [Blog](https://ripple.com/blog/)
+- [Status](http://status.ripple.com/): Ripple servers status
 - [Ripple Labs](http://ripplelabs.com/)
 
 #### Gateways / Cash In / Cash Outs
