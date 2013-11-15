@@ -36,7 +36,7 @@
 - [Ripple, The future of payments](https://vimeo.com/73887321)
 
 #### Other
-- [Other](http://www.xrpga.org/)
+- [International Ripple Business Association](http://www.xrpga.org/)
 
 #### Social
 - [Reddit 'ripple'](http://www.reddit.com/r/ripple/)
