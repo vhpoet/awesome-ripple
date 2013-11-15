@@ -3,6 +3,18 @@
 #### Official
 - [Ripple](https://ripple.com/)
 - [Source](https://github.com/ripple/)
+  - [rippled](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
+  - Ripple Libs - Libraries for talking to the Ripple API
+    - [ripple-lib](https://github.com/ripple/ripple-lib/): Java Script
+    - [ripple-lib-java](https://github.com/ripple/ripple-lib-java/): Java
+  - Ripple Clients
+    - [ripple-client](https://github.com/ripple/ripple-client/): Web client
+    - [ripple-client-ios](https://github.com/ripple/ripple-client-ios/): iOS client
+  - [ripplecharts](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
+  - [federation-php](https://github.com/ripple/federation-php/): Simple PHP federation endpoint with a static JSON dataset
+  - [ripple-graph](https://github.com/ripple/ripple-graph): Ripple graph
+  - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
+  - [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
 - [Wiki](https://ripple.com/wiki/Main_Page)
 - [Giveaways](https://giveaway.ripple.com/)
 - [Twitter](https://twitter.com/ripple/)
