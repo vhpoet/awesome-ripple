@@ -17,6 +17,7 @@
 - [Ripple CSDN](http://ripple.csdn.net/)
 - [Kraken](https://www.kraken.com/)
 - [JustCoin](https://justcoin.com/)
+- [RippleWise](https://www.ripplewise.com/)
 - [Ripple Money](https://ripplemoney.co.uk/)
 - [Ripple Union](http://rippleunion.com/)
 - [ZipZap](http://zipzap.com/)
@@ -39,6 +40,7 @@
 
 #### Other
 - [International Ripple Business Association](http://www.xrpga.org/)
+- [Ripple Federation](http://ripplefederation.org/)
 
 #### Social
 - [Reddit 'ripple'](http://www.reddit.com/r/ripple/)
