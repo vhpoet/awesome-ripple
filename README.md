@@ -22,6 +22,13 @@
 - [Ripple Union](http://rippleunion.com/)
 - [ZipZap](http://zipzap.com/)
 - [Peercover](https://peercover.com/)
+- [Divident Rippler](https://www.dividendrippler.com/)
+- [Ripple Israel](http://rippleisrael.co.il/)
+- [The Rock Trading](https://www.therocktrading.com/)
+- [WisePass](https://wisepass.com/)
+- [Terracoin](http://exchange.bitcoinreactor.com:8032/)
+- [Devcoin](http://ripple.d.evco.in/)
+- [Bloctoc](http://bloctoc.com/)
 
 #### Tools
 ###### Developer tools
