@@ -65,6 +65,7 @@ Pull requests are more then welcome.
 ###### Other tools
 - [Ripple Helpers](https://github.com/vhpoet/ripple-helpers/)
 - [Ripple Graph](https://ripple.com/graph/)
+- [XRPTools](http://xrptools.com/)
 
 #### Videos
 - [Ripple, The future of payments](https://vimeo.com/73887321)
