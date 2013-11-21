@@ -17,13 +17,17 @@ Pull requests are more then welcome.
   - [ripple-graph](https://github.com/ripple/ripple-graph): Ripple graph
   - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
   - [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
-- [Wiki](https://ripple.com/wiki/Main_Page)
 - [Giveaways](https://giveaway.ripple.com/)
 - [Twitter](https://twitter.com/ripple/)
 - [Facebook](https://www.facebook.com/ripplepay/)
 - [Blog](https://ripple.com/blog/)
 - [Status](http://status.ripple.com/): Ripple servers status
 - [Ripple Labs](http://ripplelabs.com/)
+
+##### Books / Docs
+- [Wiki](https://ripple.com/wiki/Main_Page)
+- [Ripple Primer](https://ripple.com/ripple_primer.pdf)
+- [Ripple Gateways](https://ripple.com/ripple-gateways.pdf)
 
 #### Gateways / Cash In / Cash Outs
 - [Bitstamp](http://bitstamp.net/)
