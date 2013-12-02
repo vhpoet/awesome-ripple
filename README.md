@@ -51,6 +51,7 @@ Pull requests are more then welcome.
 - [Devcoin](http://ripple.d.evco.in/)
 - [Bloctoc](http://bloctoc.com/)
 - [BuyXrp](http://buyxrp.net/)
+- [BTC2Ripple](http://btc2ripple.com/)
 
 #### Tools
 ###### Developer tools
