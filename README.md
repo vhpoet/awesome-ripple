@@ -52,6 +52,7 @@ Pull requests are more then welcome.
 - [Bloctoc](http://bloctoc.com/)
 - [BuyXrp](http://buyxrp.net/)
 - [BTC2Ripple](http://btc2ripple.com/)
+- [Ripple Quotes](http://www.ripplequotes.com/)
 
 #### Tools
 ###### Developer tools
