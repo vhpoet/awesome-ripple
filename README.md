@@ -53,6 +53,7 @@ Pull requests are more then welcome.
 - [BuyXrp](http://buyxrp.net/)
 - [BTC2Ripple](http://btc2ripple.com/)
 - [Ripple Quotes](http://www.ripplequotes.com/)
+- [Protoshares Gateway](http://www.xrpio.com/)
 
 #### Tools
 ###### Developer tools
