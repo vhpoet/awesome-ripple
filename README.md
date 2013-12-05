@@ -74,7 +74,7 @@ Pull requests are more then welcome.
 - [Ripple Helpers](https://github.com/vhpoet/ripple-helpers/)
 - [Ripple Graph](https://ripple.com/graph/)
 - [XRPTools](http://xrptools.com/)
-- [XRPValue](http://xrpvalue.com/)
+- [XRPValue](http://xrpvalue.com/): Real time XRP price.
 
 #### Videos
 - [Ripple, The future of payments](https://vimeo.com/73887321)
