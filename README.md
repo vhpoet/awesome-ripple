@@ -54,6 +54,7 @@ Pull requests are more then welcome.
 - [BTC2Ripple](http://btc2ripple.com/)
 - [Ripple Quotes](http://www.ripplequotes.com/)
 - [Protoshares Gateway](http://www.xrpio.com/)
+- [NoFiatCoin](http://www.nofiatcoin.com/)
 
 #### Tools
 ###### Developer tools
