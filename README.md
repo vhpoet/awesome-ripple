@@ -35,7 +35,6 @@ Pull requests are more then welcome.
 - [SnapSwap EU](http://snapswap.eu/)
 - [RippleCN](http://ripplecn.com/)
 - [RippleChina](http://www.ripplechina.net/)
-- [Ripple CSDN](http://ripple.csdn.net/)
 - [Kraken](https://www.kraken.com/)
 - [JustCoin](https://justcoin.com/)
 - [RippleWise](https://www.ripplewise.com/)
