@@ -67,7 +67,7 @@ Pull requests are more then welcome.
 
 ###### Trader tools / charts
 - [Ripple Charts](https://ripplecharts.com/)
-- [Webr3](http://xrp.webr3.org/usd-xrp/)
+- [Webr3](http://xrp.webr3.org/usd-xrp)
 - [Ripple DB](http://rippledb.com/)
 - [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
 
