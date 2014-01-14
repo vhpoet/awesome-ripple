@@ -54,6 +54,7 @@ Pull requests are more then welcome.
 - [Ripple Quotes](http://www.ripplequotes.com/)
 - [Protoshares Gateway](http://www.xrpio.com/)
 - [NoFiatCoin](http://www.nofiatcoin.com/)
+- [Rippay](https://www.rippay.com/)
 
 #### Tools
 ###### Developer tools
