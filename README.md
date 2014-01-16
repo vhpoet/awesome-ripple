@@ -93,3 +93,7 @@ Pull requests are more then welcome.
 - [Ripple Forum](http://rippleforum.org/)
 - [Ripple Lounge](http://www.ripplelounge.com/)
 - [Rippleusers Google Group](https://groups.google.com/forum/#!forum/rippleusers)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vhpoet/ripple-resources/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
