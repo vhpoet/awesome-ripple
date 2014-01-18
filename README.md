@@ -85,6 +85,7 @@ Pull requests are more then welcome.
 - [International Ripple Business Association](http://www.xrpga.org/)
 - [Ripple Federation](http://ripplefederation.org/)
 - [Ripple giveaway](http://ripplegiveaway.com/)
+- [WhatisRipple.info](http://whatisripple.info/)
 
 #### Social
 - [Reddit 'ripple'](http://www.reddit.com/r/ripple/)
