@@ -64,6 +64,7 @@ Pull requests are more then welcome.
 - [Ripple Blob Vault](https://github.com/alexdupre/ripple-blobvault/)
 - [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
 - [Ripple Gen](https://github.com/CodeShark/RippleGen/)
+- [Ripple Python](https://github.com/miracle2k/ripple-python/): Python Lib
 
 ###### Trader tools / charts
 - [Ripple Charts](https://ripplecharts.com/)
