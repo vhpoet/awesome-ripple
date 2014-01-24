@@ -57,6 +57,9 @@ Pull requests are more then welcome.
 - [Rippay](https://www.rippay.com/)
 
 #### Tools
+###### Clients
+- [Fortune Harbor](http://fortuneharbor.com/)
+
 ###### Developer tools
 - [Ripple Info Tool](https://ripple.com/tools/info/)
 - [jRippleAPI](https://github.com/pmarches/jRippleAPI/)
