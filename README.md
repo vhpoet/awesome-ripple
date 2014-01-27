@@ -55,6 +55,7 @@ Pull requests are more then welcome.
 - [Protoshares Gateway](http://www.xrpio.com/)
 - [NoFiatCoin](http://www.nofiatcoin.com/)
 - [Rippay](https://www.rippay.com/)
+- [Ripple Singapore](https://www.ripplesingapore.com/)
 
 #### Tools
 ###### Clients
