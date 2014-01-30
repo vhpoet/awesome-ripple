@@ -63,6 +63,7 @@ Pull requests are more then welcome.
 
 ###### Developer tools
 - [Ripple Info Tool](https://ripple.com/tools/info/)
+- [Ripple.txt checker](https://ripple.com/tools/txt/)
 - [jRippleAPI](https://github.com/pmarches/jRippleAPI/)
 - [Rippleserver Google Group](https://groups.google.com/forum/#!forum/ripple-server/)
 - [Ripple Blob Vault](https://github.com/alexdupre/ripple-blobvault/)
