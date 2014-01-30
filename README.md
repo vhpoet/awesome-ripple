@@ -62,6 +62,7 @@ Pull requests are more then welcome.
 - [Fortune Harbor](http://fortuneharbor.com/)
 
 ###### Developer tools
+- [Ripple API Tool](https://ripple.com/tools/api/)
 - [Ripple Info Tool](https://ripple.com/tools/info/)
 - [Ripple.txt checker](https://ripple.com/tools/txt/)
 - [jRippleAPI](https://github.com/pmarches/jRippleAPI/)
