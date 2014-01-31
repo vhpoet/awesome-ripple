@@ -22,6 +22,7 @@ Pull requests are more then welcome.
 - [Facebook](https://www.facebook.com/ripplepay/)
 - [Blog](https://ripple.com/blog/)
 - [Status](http://status.ripple.com/): Ripple servers status
+- [Weibo](http://www.weibo.com/RippleLabs/)
 - [Ripple Labs](http://ripplelabs.com/)
 
 ##### Books / Docs
