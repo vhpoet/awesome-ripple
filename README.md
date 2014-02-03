@@ -88,6 +88,7 @@ Pull requests are more then welcome.
 - [XRPTools](http://xrptools.com/)
 - [XRPValue](http://xrpvalue.com/): Real time XRP price.
 - [RippleGen](https://github.com/CodeShark/RippleGen): A simple multithreaded vanity generator for the ripple p2p network.
+- [Dollero](http://dollero.com/): Global remittance payments software
 
 #### Videos
 - [Ripple, The future of payments](https://vimeo.com/73887321)
