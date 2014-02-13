@@ -76,6 +76,7 @@ Pull requests are more then welcome.
 - [Ripple Gen](https://github.com/CodeShark/RippleGen/)
 - [Ripple Python](https://github.com/miracle2k/ripple-python/): Python Lib
 - [Ripple Checkout](https://github.com/emschwartz/ripple-checkout/): An embeddable widget for paying with Ripple.
+- [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
 
 ###### Trader tools / charts
 - [Ripple Charts](https://ripplecharts.com/)
