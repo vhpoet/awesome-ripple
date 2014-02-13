@@ -63,6 +63,7 @@ Pull requests are more then welcome.
 #### Tools
 ###### Clients
 - [Fortune Harbor](http://fortuneharbor.com/)
+- [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
 
 ###### Developer tools
 - [Ripple API Tool](https://ripple.com/tools/api/)
