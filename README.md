@@ -18,6 +18,7 @@ Pull requests are more then welcome.
   - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
   - [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
 - [Giveaways](https://giveaway.ripple.com/)
+  - [Computing For Good](https://www.computingforgood.org/)
 - [Blog](https://ripple.com/blog/)
 - [Status](http://status.ripple.com/): Ripple servers status
 - [Ripple Labs](http://ripplelabs.com/)
