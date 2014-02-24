@@ -26,7 +26,7 @@ Pull requests are more then welcome.
 - [Facebook](https://www.facebook.com/ripplepay/)
 - [Weibo](http://www.weibo.com/RippleLabs/)
 
-#### Books / Docs
+#### Books / Docs / Videos
 - [Wiki](https://ripple.com/wiki/Main_Page)
 - [Ripple Primer](https://ripple.com/ripple_primer.pdf)
 - [Ripple Gateways](https://ripple.com/ripple-gateways.pdf)
