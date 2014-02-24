@@ -23,15 +23,16 @@ Pull requests are more then welcome.
 - [Status](http://status.ripple.com/): Ripple servers status
 - [Ripple Labs](http://ripplelabs.com/)
 
-##### Books / Docs
-- [Wiki](https://ripple.com/wiki/Main_Page)
-- [Ripple Primer](https://ripple.com/ripple_primer.pdf)
-- [Ripple Gateways](https://ripple.com/ripple-gateways.pdf)
-
 ##### Social Networks
 - [Twitter](https://twitter.com/ripple/)
 - [Facebook](https://www.facebook.com/ripplepay/)
 - [Weibo](http://www.weibo.com/RippleLabs/)
+
+#### Books / Docs
+- [Wiki](https://ripple.com/wiki/Main_Page)
+- [Ripple Primer](https://ripple.com/ripple_primer.pdf)
+- [Ripple Gateways](https://ripple.com/ripple-gateways.pdf)
+- [Steven Zeiler's Ripple coding lessons](https://www.youtube.com/user/stevenzeiler/videos?flow=grid&view=0)
 
 #### Gateways / Cash In / Cash Outs
 - [Bitstamp](http://bitstamp.net/)
