@@ -32,6 +32,7 @@ Pull requests are more then welcome.
 - [Ripple Gateways](https://ripple.com/ripple-gateways.pdf)
 - [Steven Zeiler's Ripple coding lessons](https://www.youtube.com/user/stevenzeiler/videos?flow=grid&view=0)
 - [Wikipedia](http://en.wikipedia.org/wiki/Ripple_(payment_protocol))
+- ["Ripple, The future of payments" video](https://vimeo.com/73887321)
 
 #### Gateways / Cash In / Cash Outs
 - [Bitstamp](http://bitstamp.net/)
@@ -92,9 +93,6 @@ Pull requests are more then welcome.
 - [XRPValue](http://xrpvalue.com/): Real time XRP price.
 - [RippleGen](https://github.com/CodeShark/RippleGen): A simple multithreaded vanity generator for the ripple p2p network.
 - [Dollero](http://dollero.com/): Global remittance payments software
-
-#### Videos
-- [Ripple, The future of payments](https://vimeo.com/73887321)
 
 #### Other
 - [International Ripple Business Association](http://www.xrpga.org/)
