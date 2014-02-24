@@ -31,6 +31,7 @@ Pull requests are more then welcome.
 - [Ripple Primer](https://ripple.com/ripple_primer.pdf)
 - [Ripple Gateways](https://ripple.com/ripple-gateways.pdf)
 - [Steven Zeiler's Ripple coding lessons](https://www.youtube.com/user/stevenzeiler/videos?flow=grid&view=0)
+- [Wikipedia](http://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 
 #### Gateways / Cash In / Cash Outs
 - [Bitstamp](http://bitstamp.net/)
