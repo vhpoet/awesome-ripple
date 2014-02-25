@@ -67,6 +67,7 @@ Pull requests are more then welcome.
 - [ripple-lib](https://github.com/ripple/ripple-lib/): Java Script
 - [ripple-lib-java](https://github.com/ripple/ripple-lib-java/): Java
 - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
+- [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
 
 ###### Developer tools
 - [Ripple API Tool](https://ripple.com/tools/api/)
