@@ -5,10 +5,6 @@ Pull requests are more then welcome.
 - [Ripple](https://ripple.com/)
 - [Source](https://github.com/ripple/)
   - [rippled](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
-  - Ripple Libs - Libraries for talking to the Ripple API
-    - [ripple-lib](https://github.com/ripple/ripple-lib/): Java Script
-    - [ripple-lib-java](https://github.com/ripple/ripple-lib-java/): Java
-    - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
   - Ripple Clients
     - [ripple-client](https://github.com/ripple/ripple-client/): Web client
     - [ripple-client-ios](https://github.com/ripple/ripple-client-ios/): iOS client
@@ -66,6 +62,11 @@ Pull requests are more then welcome.
 ###### Clients
 - [Fortune Harbor](http://fortuneharbor.com/)
 - [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
+
+###### Libs - Libraries for talking to the Ripple API
+- [ripple-lib](https://github.com/ripple/ripple-lib/): Java Script
+- [ripple-lib-java](https://github.com/ripple/ripple-lib-java/): Java
+- [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
 
 ###### Developer tools
 - [Ripple API Tool](https://ripple.com/tools/api/)
