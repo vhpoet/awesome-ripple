@@ -57,6 +57,7 @@ Pull requests are more then welcome.
 - [NoFiatCoin](http://www.nofiatcoin.com/)
 - [Rippay](https://www.rippay.com/)
 - [Ripple Singapore](https://www.ripplesingapore.com/)
+- [Tradefast](https://tradefast.me/): Rapidly convert Bitcoins to Ripple
 
 #### Tools
 ###### Clients
