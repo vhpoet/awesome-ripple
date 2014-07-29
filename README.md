@@ -61,6 +61,7 @@ Pull requests are more then welcome.
 
 #### Tools
 ###### Clients
+- [Ripple Trade](https://rippletrade.com/): Official Ripple client developed by Ripple Labs
 - [Fortune Harbor](http://fortuneharbor.com/)
 - [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
 
