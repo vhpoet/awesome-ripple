@@ -4,19 +4,7 @@ Pull requests are more then welcome.
 #### Official
 - [Ripple](https://ripple.com/)
 - [Source](https://github.com/ripple/)
-  - [rippled](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
-  - Ripple Clients
-    - [ripple-client](https://github.com/ripple/ripple-client/): Web client
-    - [ripple-client-ios](https://github.com/ripple/ripple-client-ios/): iOS client
-  - [ripplecharts](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
-  - [federation-php](https://github.com/ripple/federation-php/): Simple PHP federation endpoint with a static JSON dataset
-  - [ripple-graph](https://github.com/ripple/ripple-graph): Ripple graph
-  - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
-  - [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
-- [Giveaways](https://giveaway.ripple.com/)
-  - [Computing For Good](https://www.computingforgood.org/)
 - [Blog](https://ripple.com/blog/)
-- [Status](http://status.ripple.com/): Ripple servers status
 - [Ripple Labs](http://ripplelabs.com/)
 - [Twitter](https://twitter.com/ripple/)
 - [Facebook](https://www.facebook.com/ripplepay/)
@@ -30,7 +18,7 @@ Pull requests are more then welcome.
 - [Wikipedia](http://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 - ["Ripple, The future of payments" video](https://vimeo.com/73887321)
 
-#### Gateways / Cash In / Cash Outs
+#### Gateways / Bridges
 - [Bitstamp](http://bitstamp.net/)
 - [SnapSwap US](http://snapswap.us/)
 - [SnapSwap EU](http://snapswap.eu/)
@@ -50,17 +38,38 @@ Pull requests are more then welcome.
 - [NoFiatCoin](http://www.nofiatcoin.com/)
 - [Ripple Singapore](https://www.ripplesingapore.com/)
 
-#### Tools
-###### Clients
-- [Ripple Trade](https://rippletrade.com/): Official Ripple client developed by Ripple Labs
-- [Fortune Harbor](http://fortuneharbor.com/)
-- [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
+#### Code
+###### Rippled - The Guy!
+- [rippled](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
 
 ###### Libs - Libraries for talking to the Ripple API
 - [ripple-lib](https://github.com/ripple/ripple-lib/): Java Script
 - [ripple-lib-java](https://github.com/ripple/ripple-lib-java/): Java
 - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
+- [ripple-python](https://github.com/miracle2k/ripple-python/): Python Lib
 - [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
+
+###### Clients / Apps
+- [ripple-client](https://github.com/ripple/ripple-client/): Web client
+- [ripple-client-ios](https://github.com/ripple/ripple-client-ios/): iOS client
+- [ripplecharts](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
+- [ripple-graph](https://github.com/ripple/ripple-graph): Ripple graph
+- [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
+- [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
+
+###### Other
+- [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
+- [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
+- [federation-php](https://github.com/ripple/federation-php/): Simple PHP federation endpoint with a static JSON dataset
+- [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
+- [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
+- [Ripple Gen](https://github.com/CodeShark/RippleGen/)
+- [Ripple Checkout](https://github.com/emschwartz/ripple-checkout/): An embeddable widget for paying with Ripple.
+- [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
+
+#### Hosted Tools
+###### Clients
+- [Ripple Trade](https://rippletrade.com/): Official Ripple client developed by Ripple Labs
 
 ###### Developer tools
 - [Ripple API Tool](https://ripple.com/tools/api/)
@@ -68,18 +77,10 @@ Pull requests are more then welcome.
 - [Ripple.txt checker](https://ripple.com/tools/txt/)
 - [jRippleAPI](https://github.com/pmarches/jRippleAPI/)
 - [Rippleserver Google Group](https://groups.google.com/forum/#!forum/ripple-server/)
-- [Ripple Blob Vault](https://github.com/alexdupre/ripple-blobvault/)
-- [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
-- [Ripple Gen](https://github.com/CodeShark/RippleGen/)
-- [Ripple Python](https://github.com/miracle2k/ripple-python/): Python Lib
-- [Ripple Checkout](https://github.com/emschwartz/ripple-checkout/): An embeddable widget for paying with Ripple.
-- [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
 
 ###### Trader tools / charts
 - [Ripple Charts](https://ripplecharts.com/)
 - [Webr3](http://xrp.webr3.org/usd-xrp)
-- [Ripple DB](http://rippledb.com/)
-- [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
 
 ###### Other tools
 - [Ripple Helpers](https://github.com/vhpoet/ripple-helpers/)
@@ -92,7 +93,6 @@ Pull requests are more then welcome.
 #### Other
 - [International Ripple Business Association](http://www.xrpga.org/)
 - [Ripple Federation](http://ripplefederation.org/)
-- [Ripple giveaway](http://ripplegiveaway.com/)
 - [WhatisRipple.info](http://whatisripple.info/)
 
 #### Social
@@ -102,4 +102,3 @@ Pull requests are more then welcome.
 - [Ripple Forum](http://rippleforum.org/)
 - [Ripple Lounge](http://www.ripplelounge.com/)
 - [Rippleusers Google Group](https://groups.google.com/forum/#!forum/rippleusers)
-- [XRP Report](http://www.xrpreport.com/)
