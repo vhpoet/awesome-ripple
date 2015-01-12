@@ -61,6 +61,7 @@ Pull requests are more then welcome.
 - [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
 
 ###### Other
+- [gatewayd](https://github.com/ripple/gatewayd): Ripple gateway software automation framework
 - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
 - [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
 - [federation-php](https://github.com/ripple/federation-php/): Simple PHP federation endpoint with a static JSON dataset
