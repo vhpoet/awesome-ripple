@@ -54,6 +54,7 @@ Pull requests are more then welcome.
 
 ###### Clients / Apps
 - [ripple-client](https://github.com/ripple/ripple-client/): Web client
+- [ripple-client-desktop](https://github.com/ripple/ripple-client-desktop): Desktop client
 - [ripple-client-ios](https://github.com/ripple/ripple-client-ios/): iOS client
 - [ripplecharts](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
 - [ripple-graph](https://github.com/ripple/ripple-graph): Ripple graph
@@ -64,6 +65,9 @@ Pull requests are more then welcome.
 - [gatewayd](https://github.com/ripple/gatewayd): Ripple gateway software automation framework
 - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
 - [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
+- [rippled-historical-database](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
+- [ripple-data-api](https://github.com/ripple/ripple-data-api)
+- [ripple-vault-client](ripple-vault-client)
 - [federation-php](https://github.com/ripple/federation-php/): Simple PHP federation endpoint with a static JSON dataset
 - [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
 - [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
