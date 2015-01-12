@@ -39,25 +39,16 @@ Pull requests are more then welcome.
 - [Kraken](https://www.kraken.com/)
 - [JustCoin](https://justcoin.com/)
 - [RippleWise](https://www.ripplewise.com/)
-- [Ripple Money](https://ripplemoney.co.uk/)
 - [Ripple Union](http://rippleunion.com/)
-- [ZipZap](http://zipzap.com/)
-- [Peercover](https://peercover.com/)
 - [Divident Rippler](https://www.dividendrippler.com/)
 - [Ripple Israel](http://rippleisrael.co.il/)
 - [The Rock Trading](https://www.therocktrading.com/)
 - [WisePass](https://wisepass.com/)
-- [Terracoin](http://exchange.bitcoinreactor.com:8032/)
 - [Devcoin](http://ripple.d.evco.in/)
-- [Bloctoc](http://bloctoc.com/)
 - [BuyXrp](http://buyxrp.net/)
 - [BTC2Ripple](http://btc2ripple.com/)
-- [Ripple Quotes](http://www.ripplequotes.com/)
-- [Protoshares Gateway](http://www.xrpio.com/)
 - [NoFiatCoin](http://www.nofiatcoin.com/)
-- [Rippay](https://www.rippay.com/)
 - [Ripple Singapore](https://www.ripplesingapore.com/)
-- [Tradefast](https://tradefast.me/): Rapidly convert Bitcoins to Ripple
 
 #### Tools
 ###### Clients
