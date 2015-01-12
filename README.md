@@ -10,6 +10,7 @@ Pull requests are more then welcome.
     - [ripple-client-ios](https://github.com/ripple/ripple-client-ios/): iOS client
   - [ripplecharts](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
   - [federation-php](https://github.com/ripple/federation-php/): Simple PHP federation endpoint with a static JSON dataset
+  - [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
   - [ripple-graph](https://github.com/ripple/ripple-graph): Ripple graph
   - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
   - [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
