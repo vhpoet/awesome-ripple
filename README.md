@@ -2,8 +2,8 @@
 Pull requests are more then welcome.
 
 #### Official
-- [Ripple](https://ripple.com/)
-- [Source](https://github.com/ripple/)
+- [Ripple Website](https://ripple.com/)
+- [Ripple Github](https://github.com/ripple/)
 - [Blog](https://ripple.com/blog/)
 - [Ripple Labs](http://ripplelabs.com/)
 - [Twitter](https://twitter.com/ripple/)
@@ -103,3 +103,7 @@ Pull requests are more then welcome.
 - [Ripple Forum](http://rippleforum.org/)
 - [Ripple Lounge](http://www.ripplelounge.com/)
 - [Rippleusers Google Group](https://groups.google.com/forum/#!forum/rippleusers)
+
+#### Codius
+- [Codius Website](https://codius.org/)
+- [Codius Github](https://github.com/codius)
