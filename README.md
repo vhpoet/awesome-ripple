@@ -49,6 +49,7 @@ Pull requests are more then welcome.
 - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
 - [ripple-python](https://github.com/miracle2k/ripple-python/): Python Lib
 - [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
+- [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
 
 ###### Clients / Apps
 - [ripple-client](https://github.com/ripple/ripple-client/): Web client
