@@ -17,6 +17,7 @@ Pull requests are more then welcome.
 - [Steven Zeiler's Ripple coding lessons](https://www.youtube.com/user/stevenzeiler/videos?flow=grid&view=0)
 - [Wikipedia](http://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 - ["Ripple, The future of payments" video](https://vimeo.com/73887321)
+- [Ripple Labs: Building the Internet of Money](https://www.youtube.com/watch?v=aoixyCNWg5k)
 
 #### Gateways / Bridges
 - [Bitstamp](http://bitstamp.net/)
