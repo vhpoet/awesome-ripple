@@ -38,6 +38,8 @@ Pull requests are more then welcome.
 - [BTC2Ripple](http://btc2ripple.com/)
 - [NoFiatCoin](http://www.nofiatcoin.com/)
 - [Ripple Singapore](https://www.ripplesingapore.com/)
+- [PaxMoneta](https://paxmoneta.com)
+- [Ripple Market Korea](http://ripple-market.co.kr/)
 
 #### Code
 ###### Rippled - The Guy!
