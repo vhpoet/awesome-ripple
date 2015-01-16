@@ -40,6 +40,7 @@ Pull requests are more then welcome.
 - [Ripple Singapore](https://www.ripplesingapore.com/)
 - [PaxMoneta](https://paxmoneta.com)
 - [Ripple Market Korea](http://ripple-market.co.kr/)
+- [RippleFox](https://www.ripplefox.com/)
 
 #### Code
 ###### Rippled - The Guy!
