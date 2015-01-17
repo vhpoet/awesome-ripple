@@ -41,6 +41,7 @@ Pull requests are more then welcome.
 - [PaxMoneta](https://paxmoneta.com)
 - [Ripple Market Korea](http://ripple-market.co.kr/)
 - [RippleFox](https://www.ripplefox.com/)
+- [ShapeShift](https://shapeshift.io): Buy Coins Instantly, No Account Needed
 
 #### Code
 ###### Rippled - The Guy!
