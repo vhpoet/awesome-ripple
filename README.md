@@ -42,6 +42,7 @@ Pull requests are more then welcome.
 - [Ripple Market Korea](http://ripple-market.co.kr/)
 - [RippleFox](https://www.ripplefox.com/)
 - [ShapeShift](https://shapeshift.io): Buy Coins Instantly, No Account Needed
+- [saldo.mx](http://saldo.mx/)
 
 #### Code
 ###### Rippled - The Guy!
