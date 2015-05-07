@@ -84,6 +84,7 @@ Pull requests are more then welcome.
 #### Hosted Tools
 ###### Clients
 - [Ripple Trade](https://rippletrade.com/): Official Ripple client developed by Ripple Labs
+- [GateHub](https://gatehub.net/)
 
 ###### Developer tools
 - [Ripple API Tool](https://ripple.com/tools/api/)
