@@ -96,9 +96,11 @@ Pull requests are more then welcome.
 - [Ripple Charts](https://ripplecharts.com/)
 - [Webr3](http://xrp.webr3.org/usd-xrp)
 
+###### Visualizations
+- [Ripple Graph](https://ripple.com/graph/)
+
 ###### Other tools
 - [Ripple Helpers](https://github.com/vhpoet/ripple-helpers/)
-- [Ripple Graph](https://ripple.com/graph/)
 - [XRPTools](http://xrptools.com/)
 - [XRPValue](http://xrpvalue.com/): Real time XRP price.
 - [RippleGen](https://github.com/CodeShark/RippleGen): A simple multithreaded vanity generator for the ripple p2p network.
