@@ -98,6 +98,7 @@ Pull requests are more then welcome.
 
 ###### Visualizations
 - [Ripple Graph](https://ripple.com/graph/)
+- [Ripple Live (GateHub)](https://gatehub.net/live)
 
 ###### Other tools
 - [Ripple Helpers](https://github.com/vhpoet/ripple-helpers/)
