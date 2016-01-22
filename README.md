@@ -7,8 +7,8 @@ Pull requests are more then welcome.
 #### Official
 - [Ripple Website](https://ripple.com/)
 - [Ripple Github](https://github.com/ripple/)
-- [Blog](https://ripple.com/blog/)
-- [Ripple Labs](http://ripplelabs.com/)
+- [Blog](https://ripple.com/insights/)
+- [Ripple Labs](https://ripple.com)
 - [Twitter](https://twitter.com/ripple/)
 - [Facebook](https://www.facebook.com/ripplepay/)
 - [Weibo](http://www.weibo.com/RippleLabs/)
@@ -18,32 +18,32 @@ Pull requests are more then welcome.
 - [Ripple Primer](https://ripple.com/ripple_primer.pdf)
 - [Ripple Gateways](https://ripple.com/ripple-gateways.pdf)
 - [Steven Zeiler's Ripple coding lessons](https://www.youtube.com/user/stevenzeiler/videos?flow=grid&view=0)
-- [Wikipedia](http://en.wikipedia.org/wiki/Ripple_(payment_protocol))
+- [Wikipedia](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 - ["Ripple, The future of payments" video](https://vimeo.com/73887321)
 - [Ripple Labs: Building the Internet of Money](https://www.youtube.com/watch?v=aoixyCNWg5k)
 
 #### Gateways / Bridges
-- [Bitstamp](http://bitstamp.net/)
-- [SnapSwap US](http://snapswap.us/)
-- [SnapSwap EU](http://snapswap.eu/)
-- [RippleCN](http://ripplecn.com/)
+- [Bitstamp](http://www.bitstamp.net/)
+- [SnapSwap US](https://snapswap.us/)
+- [SnapSwap EU](https://snapswap.eu/)
+- [RippleCN](http://www.rebopay.com/)
 - [RippleChina](http://www.ripplechina.net/)
 - [Kraken](https://www.kraken.com/)
 - [JustCoin](https://justcoin.com/)
 - [RippleWise](https://www.ripplewise.com/)
-- [Ripple Union](http://rippleunion.com/)
+- [Ripple Union](https://xagate.com)
 - [Divident Rippler](https://www.dividendrippler.com/)
 - [Ripple Israel](http://rippleisrael.co.il/)
 - [The Rock Trading](https://www.therocktrading.com/)
 - [WisePass](https://wisepass.com/)
 - [Devcoin](http://ripple.d.evco.in/)
 - [BuyXrp](http://buyxrp.net/)
-- [BTC2Ripple](http://btc2ripple.com/)
+- [BTC2Ripple](https://btc2ripple.com/)
 - [NoFiatCoin](http://www.nofiatcoin.com/)
 - [Ripple Singapore](https://www.ripplesingapore.com/)
 - [PaxMoneta](https://paxmoneta.com)
 - [Ripple Market Korea](http://ripple-market.co.kr/)
-- [RippleFox](https://www.ripplefox.com/)
+- [RippleFox](https://ripplefox.com/)
 - [ShapeShift](https://shapeshift.io): Buy Coins Instantly, No Account Needed
 - [saldo.mx](http://saldo.mx/)
 
@@ -63,9 +63,9 @@ Pull requests are more then welcome.
 ###### Clients / Apps
 - [ripple-client](https://github.com/ripple/ripple-client/): Web client
 - [ripple-client-desktop](https://github.com/ripple/ripple-client-desktop): Desktop client
-- [ripple-client-ios](https://github.com/ripple/ripple-client-ios/): iOS client
+- [ripple-client-ios](https://github.com/ripple-unmaintained/ripple-client-ios): iOS client
 - [ripplecharts](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
-- [ripple-graph](https://github.com/ripple/ripple-graph): Ripple graph
+- [ripple-graph](https://github.com/ripple-unmaintained/ripple-graph): Ripple graph
 - [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
 - [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
 
@@ -76,11 +76,11 @@ Pull requests are more then welcome.
 - [rippled-historical-database](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
 - [ripple-data-api](https://github.com/ripple/ripple-data-api)
 - [ripple-vault-client](ripple-vault-client)
-- [federation-php](https://github.com/ripple/federation-php/): Simple PHP federation endpoint with a static JSON dataset
+- [federation-php](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
 - [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
 - [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
 - [Ripple Gen](https://github.com/CodeShark/RippleGen/)
-- [Ripple Checkout](https://github.com/emschwartz/ripple-checkout/): An embeddable widget for paying with Ripple.
+- [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 - [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
 - [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
 
@@ -90,10 +90,10 @@ Pull requests are more then welcome.
 - [GateHub](https://gatehub.net/)
 
 ###### Developer tools
-- [Ripple API Tool](https://ripple.com/tools/api/)
-- [Ripple Info Tool](https://ripple.com/tools/info/)
+- [Ripple API Tool](https://ripple.com/build/websocket-tool/)
+- [Ripple Info Tool](https://ripple.com/build/ripple-info-tool/)
 - [Ripple.txt checker](https://ripple.com/tools/txt/)
-- [jRippleAPI](https://github.com/pmarches/jRippleAPI/)
+- [jRippleAPI](https://github.com/pmarches/jStellarAPI)
 - [Rippleserver Google Group](https://groups.google.com/forum/#!forum/ripple-server/)
 
 ###### Trader tools / charts
@@ -101,7 +101,7 @@ Pull requests are more then welcome.
 - [Webr3](http://xrp.webr3.org/usd-xrp)
 
 ###### Visualizations
-- [Ripple Graph](https://ripple.com/graph/)
+- [Ripple Graph](https://www.ripplecharts.com/%23/graph/)
 - [Ripple Live (GateHub)](https://gatehub.net/live)
 
 ###### Other tools
@@ -112,13 +112,13 @@ Pull requests are more then welcome.
 - [Dollero](http://dollero.com/): Global remittance payments software
 
 #### Other
-- [International Ripple Business Association](http://www.xrpga.org/)
+- [International Ripple Business Association](http://www.ripplebusiness.org/)
 - [Ripple Federation](http://ripplefederation.org/)
 - [WhatisRipple.info](http://whatisripple.info/)
 
 #### Social
-- [Reddit 'ripple'](http://www.reddit.com/r/ripple/)
-- [Reddit 'ripplers'](http://www.reddit.com/r/ripplers/)
+- [Reddit 'ripple'](https://www.reddit.com/r/ripple/)
+- [Reddit 'ripplers'](https://www.reddit.com/r/ripplers/)
 - [XRPTalk](https://xrptalk.org/)
 - [Ripple Forum](http://rippleforum.org/)
 - [Ripple Lounge](http://www.ripplelounge.com/)
