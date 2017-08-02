@@ -69,6 +69,7 @@ Pull requests are more then welcome.
 - [ripple-graph](https://github.com/ripple-unmaintained/ripple-graph): Ripple graph
 - [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
 - [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
+- [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
 
 ###### Other
 - [gatewayd](https://github.com/ripple/gatewayd): Ripple gateway software automation framework
