@@ -105,6 +105,7 @@ Pull requests are more then welcome.
 ###### Visualizations
 - [Ripple Graph](https://www.ripplecharts.com/%23/graph/)
 - [Ripple Live (GateHub)](https://gatehub.net/live)
+- [Rich list, ledger stats & XRP distribution](https://ledger.exposed)
 
 ###### Other tools
 - [Ripple Helpers](https://github.com/vhpoet/ripple-helpers/)
