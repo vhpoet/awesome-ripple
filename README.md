@@ -125,6 +125,7 @@ Pull requests are more then welcome.
 - [Ripple Forum](http://rippleforum.org/)
 - [Ripple Lounge](http://www.ripplelounge.com/)
 - [Rippleusers Google Group](https://groups.google.com/forum/#!forum/rippleusers)
+- [XRP Tip Bot for Reddit, Twitter & Discord](https://xrptipbot.com)
 
 #### Codius
 - [Codius Website](https://codius.org/)
