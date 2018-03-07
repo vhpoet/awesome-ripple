@@ -85,6 +85,7 @@ Pull requests are more then welcome.
 - [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 - [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
 - [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+- [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
 
 #### Hosted Tools
 ###### Clients
