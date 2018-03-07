@@ -54,6 +54,7 @@ Pull requests are more then welcome.
 ###### Libs - Libraries for talking to the Ripple API
 - [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
 - [ripple-lib](https://github.com/ripple/ripple-lib/): Java Script
+- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): Lightweight Javascript / nodejs client with health detection and auto-reconnect
 - [ripple-lib-java](https://github.com/ripple/ripple-lib-java/): Java
 - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
 - [ripple-python](https://github.com/miracle2k/ripple-python/): Python Lib
