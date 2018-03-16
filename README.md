@@ -52,6 +52,7 @@ Pull requests are more then welcome.
 - [rippled](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
 
 ###### Libs - Libraries for talking to the Ripple API
+- [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 - [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
 - [ripple-lib](https://github.com/ripple/ripple-lib/): Java Script
 - [ripple-lib-java](https://github.com/ripple/ripple-lib-java/): Java
