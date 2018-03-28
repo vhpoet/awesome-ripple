@@ -88,6 +88,7 @@ Pull requests are more then welcome.
 - [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
 - [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
 - [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
+- [XRP Text](https://xrptext.com): Send XRP using SMS Text messages (even on dumbphones)
 
 #### Hosted Tools
 ###### Clients
