@@ -21,6 +21,8 @@ Pull requests are more then welcome.
 - [Wikipedia](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 - ["Ripple, The future of payments" video](https://vimeo.com/73887321)
 - [Ripple Labs: Building the Internet of Money](https://www.youtube.com/watch?v=aoixyCNWg5k)
+- [Build a VueJS WebApp connecting to the Ripple Ledger](https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c)
+- [Most common XRP misconceptions debunked](https://fudbingo.com)
 
 #### Gateways / Bridges
 - [Bitstamp](http://www.bitstamp.net/)
@@ -50,6 +52,8 @@ Pull requests are more then welcome.
 #### Code
 ###### Rippled - The Guy!
 - [rippled](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
+- [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
+- [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
 
 ###### Libs - Libraries for talking to the Ripple API
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
