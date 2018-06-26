@@ -134,6 +134,7 @@ Pull requests are more then welcome.
 #### Codius
 - [Codius Website](https://codius.org/)
 - [Codius Github](https://github.com/codius)
+- [Codius Hosts](http://codiushosts.com/)
 
 ## License
 
