@@ -2,7 +2,7 @@
 
 > A curated list of Ripple resources.
 
-Pull requests are more then welcome.
+Pull requests are more than welcome.
 
 #### Official
 - [Ripple Website](https://ripple.com/)
