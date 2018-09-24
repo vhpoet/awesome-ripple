@@ -63,6 +63,7 @@ Pull requests are more than welcome.
 - [ripple-lib-java](https://github.com/ripple/ripple-lib-java/): Java
 - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
 - [ripple-python](https://github.com/miracle2k/ripple-python/): Python Lib
+- [ripple-python-lib](https://github.com/arsenlosenko/python-ripple-lib): Python implementation of JSON-RPC and Data API calls
 - [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
 - [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
 - [RippleKit](https://github.com/xasos/RippleKit): Swift
